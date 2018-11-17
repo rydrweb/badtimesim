@@ -1,6 +1,7 @@
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
-0,SansText,ready?,,,,,,,
+0,SansText,*sigh*,,,,,,,
+0,SansText,Let's just get to the point…,,,,,,,
 0,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
 0.06666,BlackScreen,0,,,,,,,
@@ -13,7 +14,7 @@
 0,Sound,GasterBlaster,1.4,,,,,,
 0.26666,SansSlam,1,,,,,,,
 0.5,SansBody,HandUp,,,,,,,
-0,SansHead,NoEyes,,,,,,,
+0,SansHead,Default,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
@@ -43,6 +44,6 @@
 0,GasterBlaster,1,640,480,379,446,270,0.333,0.2
 0.5,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-3,SansHead,Default,,,,,,,
-0,SansText,here we go.,,,,,,,
+3,SansHead,NoEyes,,,,,,,
+0,SansText,…the point where you die a million times.,,,,,,,
 0,EndAttack,,,,,,,,
