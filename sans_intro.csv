@@ -1,7 +1,8 @@
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
-0,SansText,"It's one hell of a day I had,",,,,,,,
+0,SansText,"Its one hell of a day I had,",,,,,,,
 0,SansText,watching everything turn into dust.,,,,,,,
+0,SansHead,Tired1,,,,,,,
 0,SansText,"Look, Chara if you take another step,",,,,,,,
 0,Sound,Flash,,,,,,,
 0.06666,BlackScreen,0,,,,,,,
@@ -48,7 +49,7 @@
 0.5,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 3,SansHead,Default,,,,,,,
-0,SansText,"Welp, guess you ""LOVE"" dying.",,,,,,,
+0,SansText,"Welp, guess you LOVE dying.",,,,,,,
 3,SansHead,Wink,,,,,,,
-0,SansText,I mean how else would you be here.,,,,,,,
+0,SansText,I mean how else would you have gotten here.,,,,,,,
 0,EndAttack,,,,,,,,
