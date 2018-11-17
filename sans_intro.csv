@@ -1,7 +1,7 @@
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
 0,SansText,*sigh*,,,,,,,
-0,SansText,Let's just get to-,,,,,,,
+0,SansText,"Let's just get to,",,,,,,,
 0,SansText,the point.,,,,,,,
 0,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
@@ -46,6 +46,6 @@
 0.5,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 3,SansHead,NoEyes,,,,,,,
-0,SansText,". . .the point where,",,,,,,,
+0,SansText,"The point where,",,,,,,,
 0,SansText, you die a million times.,,,,,,,
 0,EndAttack,,,,,,,,
