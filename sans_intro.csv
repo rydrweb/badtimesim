@@ -1,15 +1,11 @@
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
-0,SansText,"It's one hell n/ of a day I had,",,,,,,,
-0,SansText,watching everything n/ turn into dust.,,,,,,,
-0,SansHead,Tired1,,,,,,,
-0,SansText,"Look, Chara if you n/ take another step,",,,,,,,
+0,SansText,Chara.,,,,,,,
+0,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
 0.06666,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
-0,SansHead,NoEyes,,,,,,,
-0,SansText,W E ' R E G O N N A H A V E O N E H E L L O F A T I M E .,,,,,,,
-0,BlackScreen,1,,,,,,,
+0,SansText,Just burn in hell.,,,,,,,
 0,CombatZoneResizeInstant,239,226,404,391,,,,
 0,HeartTeleport,320,304,,,,,,
 0,HeartMode,0,,,,,,,
@@ -18,7 +14,7 @@
 0,Sound,GasterBlaster,1.4,,,,,,
 0.26666,SansSlam,1,,,,,,,
 0.5,SansBody,HandUp,,,,,,,
-0,SansHead,Default,,,,,,,
+0,SansHead,NoEyes,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
@@ -48,8 +44,7 @@
 0,GasterBlaster,1,640,480,379,446,270,0.333,0.2
 0.5,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-3,SansHead,Default,,,,,,,
-0,SansText,"Welp, guess you LOVE dying.",,,,,,,
-3,SansHead,Wink,,,,,,,
-0,SansText,I mean how else would you have gotten here.,,,,,,,
+3,SansHead,ClosedEyes,,,,,,,
+0,SansText,Still alive?,,,,,,,
+0,SansText,"Guess you like hell, huh?",,,,,,,
 0,EndAttack,,,,,,,,
