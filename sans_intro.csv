@@ -8,7 +8,7 @@
 0,SansHead,NoEyes,,,,,,,
 0,SansText,Just burn in hell.,,,,,,,
 0,Sound,Flash,,,,,,,
-0.063333,BlackScreen,0,,,,,,,
+0.06,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
 0,CombatZoneResizeInstant,239,226,404,391,,,,
 0,HeartTeleport,320,304,,,,,,
@@ -50,6 +50,6 @@
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 3,SansHead,ClosedEyes,,,,,,,
 0,SansText,Still alive?,,,,,,,
-3,SansHead,ClosedEyes,,,,,,,
-0,SansText,Guess you like dying.,,,,,,,
-0,EndAttack,,,,,,,,
+3,SansHead,Default,,,,,,,
+3,SansText,Guess you like dying.,,,,,,,
+3,EndAttack,,,,,,,,
