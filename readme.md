@@ -5,6 +5,6 @@ This is a modified version of Jcw87's c2-sans-fight, except with harder attacks.
 
 Some attacks by: [estebanfer](https://www.reddit.com/user/estebanfer)
 
-Original Hard Mode: [gotoAndDie](https://gotoanddie.github.io/c2-sans-fight)
+Original Hard Mode: [gotoAndDie](https://github.com/gotoAndDie)
 
-Original: [Jcw87](https://jcw87.github.io/c2-sans-fight)
+Original: [Jcw87](https://github.com/Jcw87)
