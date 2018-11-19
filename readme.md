@@ -14,4 +14,4 @@ Original: [Jcw87](https://github.com/Jcw87)
 
 Song Used: [SOLLICITUS I](https://soundcloud.com/ragher/swapped-realities-au-sollicitius-original)
 
-Song Creator: (Judge)[https://soundcloud.com/ragher]
+Song Creator: [Judge](https://soundcloud.com/ragher)
