@@ -1,9 +1,6 @@
-0,SansHead,NoEyes,,,,,,,
-0,SansTorso,Idle,,,,,,,
 0,SansText,"It's time to end this,",,,,,,,
 0,SansHead,BlueEye,,,,,,,
 0,SansText,N O W !,,,,,,,
-0,Sound,mus_zz_megalovania,1,,,,,,
 0,SansAnimation,Idle,,,,,,,
 0.5,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
@@ -202,8 +199,8 @@
 0,GasterBlaster,1,321.5,600,321.5,450,270,0.333,0.2
 1,GasterBlaster,1,269,0,269,166,90,0.333,0.2
 0,GasterBlaster,1,321.5,600,321.5,450,270,0.333,0.2
-2,Sound,mus_zz_megalovania,0,,,,,,
 0,SansAnimation,Tired,,,,,,,
+2,Sound,mus_zz_megalovania,0,,,,,,
 0,SansHead,Tired1,,,,,,,
 0,SansText,Damn it.,,,,,,,
 0,SansText,I guess I'm,,,,,,,
