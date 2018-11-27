@@ -15,3 +15,5 @@ Original: [Jcw87](https://github.com/Jcw87)
 Song Used: [SOLLICITUS I](https://soundcloud.com/ragher/swapped-realities-au-sollicitius-original)
 
 Song Creator: [Judge](https://soundcloud.com/ragher)
+
+Final Attack(s): [ShrB Gaming](https://www.youtube.com/channel/UCirTdftrow2g5j_9x4T8r4w)
