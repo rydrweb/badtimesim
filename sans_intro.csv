@@ -50,7 +50,8 @@
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 3,SansHead,Default,,,,,,,
 0,SansText,Still alive?,,,,,,,
-0,SansHead,Wink,,,,,,,
-0,SansTorso,Shrug,,,,,,,
+0,SansHead,NoEyes,,,,,,,
 0,SansText,Guess you like dying.,,,,,,,
+0,SansHead,EyesClosed,,,,,,,
+0,SansText,HAHAHAHAHAHHAHAHA!!,,,,,,,
 0.05,EndAttack,,,,,,,,
