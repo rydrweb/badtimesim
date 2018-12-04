@@ -11,7 +11,6 @@
 0,SansBody,HandUp,,,,,,,
 0,SansHead,BlueEye,,,,,,,
 0,Sound,GasterBlaster,1.4,,,,,,
-0.26666,SansSlam,3,,,,,,,
 0,BoneStab,0,54,0.16666,3,,,,
 0,BoneStab,2,54,0.16666,3,,,,
 0.5,SansBody,HandDown,,,,,,,
@@ -31,7 +30,6 @@
 0.5,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
 0.9,SansBody,HandLeft,,,,,,,
-0.1,SansSlam,2,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.333,0.2
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.2
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.2
@@ -60,7 +58,6 @@
 0,GasterBlaster,1,640,480,379,446,270,1.5,0.1
 1,SansHead,NoEyes,,,,,,,
 1.2,SansHead,BlueEye,,,,,,,
-0.05,SansSlam,2,,,,,,,
 0,SansBody,HandLeft,,,,,,,
 0,BoneStab,2,30,0.3,0.5,,,,
 0.6,SansSlam,0,,,,,,,
