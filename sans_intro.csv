@@ -1,5 +1,5 @@
-0,SansAnimation,,,,,,,,
-0,SansHead,NoEyes,,,,,,,
+0,SansAnimation,Tired,,,,,,,
+,,,,,,,,,
 0,SansText,Just burn in hell.,,,,,,,
 0,CombatZoneResizeInstant,239,226,404,391,,,,
 0,Sound,Flash,,,,,,,
@@ -28,7 +28,7 @@
 0,SineBones,20,-24,360,25,,,,
 0.5,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
-0.9,SansAnimation,,,,,,,,
+0.9,SansAnimation,Tired1,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.333,0.2
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.2
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.2
@@ -45,8 +45,8 @@
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 3,SansHead,Default,,,,,,,
 0,SansHead,Tired1,,,,,,,
-0,SansText,Awe.,,,,,,,
-0,SansText,What's with the face?,,,,,,,
-0,SansHead,NoEyes,,,,,,,
-0,SansText,I thought you liked dying.,,,,,,,
+0,SansText,Cheer up buddy.,,,,,,,
+0,SansHead,Wink,,,,,,,
+0,SansText,It'll be over,,,,,,,
+0,SansText,before you know it.,,,,,,,
 0.05,EndAttack,,,,,,,,
