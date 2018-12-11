@@ -19,7 +19,7 @@ ________________________________________________________________________________
 **Final Attack(s): [Mush 2 Blue](https://www.youtube.com/channel/UCMHwpcP2P4AbV1tDgz5N5XA)**
 ________________________________________________________________________________
 
-# Updates for Hell of a Time
+# Updates
 **Increased HP to 99 to match with LV 20**
 
 **Switched Insane Bound Sprites to Sane Bound Sprites**
